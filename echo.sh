@@ -36,4 +36,3 @@ echo -e "this \v is \v ubuntu"
 
 #printing text on new line
 echo -e "this \n is \n ubuntu"
-
